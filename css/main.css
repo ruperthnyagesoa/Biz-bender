@@ -1,0 +1,60 @@
+body {
+    background-image: url(bg.png);
+    background-attachment: fixed;
+    padding-top: 6%;
+    text-align: center;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 2em !important;
+}
+.transp {
+    background-color: rgba(223, 240, 246, 0.5);
+    border-radius: 20px;
+    margin-top: 5%;
+    padding: 2%;
+    margin-bottom: 5%;
+}
+.client-logo {
+    margin: 2%;
+    border-radius: 50%;
+    width: 100px;
+    height: auto;
+
+    padding: 1%;
+    margin-bottom: 1%;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+}
+.contact-section.about-section.companies-section.seekers-section {
+    padding: 1%;
+    margin: 1%;
+}
+.logo {
+    margin-top: 15%;
+    border-radius: 0px !important;
+}
+.map {
+    border-radius: 0px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+    text-decoration: none !important;
+    color: currentColor;
+}
+a:hover {
+    color: currentColor;
+}
+ul {
+    text-align: left;
+}
+.contact-list {
+    list-style: none;
+}
+
+.mainlogo {
+    margin-top: 0 !important;
+    height: 180%;
+    box-sizing: border-box;
+    padding: 0;
+}
